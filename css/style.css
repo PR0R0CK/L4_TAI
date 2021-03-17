@@ -23,6 +23,34 @@ body {
     padding: 10px 10px 10px 0;
 }
 
+.restart {
+    background-color: #1a64c4;   
+}
+
+.report {
+    background-color: #1a64c4;   
+}
+
 .question {
     padding-top: 3%;
+}
+
+.effects {
+    text-align: center;
+}
+
+.scroll {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color:black;
+  /* display: none; */
+}
+
+.btn-success {
+    background-color: #1a64c4;
+}
+
+.timer {
+    background-color: goldenrod;
 }
